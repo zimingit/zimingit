@@ -4,7 +4,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="zimingit | Telegram" width="22px" src="https://github.com/zimingit/zimingit/icons/master/telegram.svg?raw=true" />][telegram]
+[<img align="left" alt="zimingit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <!--
 **zimingit/zimingit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +22,4 @@ Here are some ideas to get you started:
 -->
 
 [instagram]: https://www.instagram.com/pyksik
+[telegram]: https://t.me/martinvc
