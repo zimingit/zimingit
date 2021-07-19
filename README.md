@@ -9,7 +9,7 @@
 [<img align="left" alt="zimingit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-### Languages and Tools:
+<!-- ### Languages and Tools: -->
 
 
 
