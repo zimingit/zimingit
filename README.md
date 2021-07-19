@@ -5,21 +5,14 @@
 ### Connect with me:
 
 [<img align="left" alt="zimingit | Telegram" width="22px" src="https://github.com/zimingit/zimingit/blob/main/icons/telegram.svg?raw=true" />][telegram]
+[<img align="left" alt="zimingit | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/skype.svg" />][skype]
 [<img align="left" alt="zimingit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<!--
-**zimingit/zimingit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+
 
 [instagram]: https://www.instagram.com/pyksik
+[skype]: https://join.skype.com/invite/eeMSCYFnQhlL
 [telegram]: https://t.me/martinvc
