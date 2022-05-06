@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexey 👋
 
-🔭 I’m currently working on projects for IT2G / RightStep / Rekrutto
+🔭 I’m currently working on projects for RightStep / Rekrutto
 
 ### Connect with me:
 
